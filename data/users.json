@@ -1,0 +1,27 @@
+[
+    {
+        "email": "robin123@gmail.com",
+        "password": "$2b$12$qPRU29NDmPz1xefMTRbkgOYgffxh9vG0PjtbUyWHeOj2445w.aMeO",
+        "uid": 1791993106208
+    },
+    {
+        "email": "nami123@gmail.com",
+        "password": "$2b$12$8Y61prXWUvJEu70rX1qsx.hwwu7twSV9UBuAYdXvTrWfS3.huHiQq",
+        "uid": 1791993131839
+    },
+    {
+        "email": "ahmed123@gmail.com",
+        "password": "$2b$12$54FRfnj/h.4/UVl6PAYeduTPIOUrzxQjXg3r47rZbd6fY9vOFd3dS",
+        "uid": 1791993143189
+    },
+    {
+        "email": "onepiece123@gmail.com",
+        "password": "$2b$12$Mj7TEEuQNjbrpv0WJhcpC..AYiEZGzW0dF/6/IHLn2x3DvXU6soSm",
+        "uid": 1791993187843
+    },
+    {
+        "email": "123@gmail.com",
+        "password": "$2b$12$ppkvtzLVbo/gYFJTYA8SQe/pgyW.b7T7vl.jOOMAxJmr29BLzYvCS",
+        "uid": 1791993365356
+    }
+]
